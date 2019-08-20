@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.atos.rest.Hateoas.HateoasApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.033 s - in com.atos.rest.Hateoas.HateoasApplicationTests

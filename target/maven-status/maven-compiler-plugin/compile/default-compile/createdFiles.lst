@@ -1,0 +1,7 @@
+com/atos/rest/controller/Hello.class
+com/atos/rest/model/Student.class
+com/atos/rest/model/Year.class
+com/atos/rest/controller/RestStudentController.class
+com/atos/rest/Hateoas/HateoasApplication.class
+com/atos/rest/manager/RestManager.class
+com/atos/rest/model/Subject.class
